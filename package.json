@@ -1,0 +1,14 @@
+{
+  "name": "tdd-example",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "jest --watchAll --verbose"
+  },
+  "devDependencies": {
+    "jest": "^27.2.5",
+    "vite": "^2.6.4"
+  }
+}
